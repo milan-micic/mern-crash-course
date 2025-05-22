@@ -2,6 +2,8 @@
 
 This is source code for freecodecamp.com course on youtube [full stack tutorial MERN](https://www.youtube.com/watch?v=O3BUHwfHf84) with `@chakra-ui/react": "^3.16.1"`.
 
+Note: I'm using Windows 11 so idk if package script work on Linux/Mac.
+
 ## Installation and running
 
 1. Clone this repo
