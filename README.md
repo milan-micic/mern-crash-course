@@ -6,7 +6,7 @@ This is source code for freecodecamp.com course on youtube [full stack tutorial 
 
   1. Clone this repo
   2. `npm run build`
-     a.  WARNING ! I have *Nodemon* installed global, so
-     b. `npm install nodemon --save-dev` OR `npm install -g nodemon` like me
+       a.  WARNING ! I have *Nodemon* installed global, so
+       b. `npm install nodemon --save-dev` OR `npm install -g nodemon` like me
   3. make your `.env` file with `PORT` and `MONGO_URI`
   4. `npm start`
