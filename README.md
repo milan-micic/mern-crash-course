@@ -2,7 +2,7 @@
 
 This is source code for freecodecamp.com course on youtube [full stack tutorial MERN](https://www.youtube.com/watch?v=O3BUHwfHf84) with `@chakra-ui/react": "^3.16.1"`.
 
-Note: I'm using Windows 11 so idk if package script work on Linux/Mac.
+>Note: I'm using Windows 11 so idk if package script work on Linux/Mac (NODE_ENV problem),so if u r not win user try scrypt used in video !!! 
 
 ## Installation and running
 
