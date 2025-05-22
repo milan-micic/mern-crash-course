@@ -17,3 +17,7 @@ This is source code for freecodecamp.com course on youtube [full stack tutorial 
 4. make your `.env` file with `PORT` and `MONGO_URI`
    
 6. `npm start`
+
+## My deployment on render.com
+
+My project running on : [render.com](https://mern-crash-course-hz0r.onrender.com)
